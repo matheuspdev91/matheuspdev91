@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner_git" alt="Full-Stack Fitness Banner" />
+  <img src="./banner_git.png" alt="Full-Stack Fitness Banner">
 </p>
 
 

@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="banner_git" alt="Full-Stack Fitness Banner" />
+</p>
+
+
 👋 Olá, eu sou Matheus Pinheiro
 
 🏋️ Ex-professor de Educação Física em transição para Desenvolvimento Full Stack.
